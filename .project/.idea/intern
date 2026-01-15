@@ -1,0 +1,4 @@
+local function == turtle
+if turtle = turtle then
+do
+write("Добрый вечер")
